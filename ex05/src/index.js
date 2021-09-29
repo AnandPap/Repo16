@@ -24,7 +24,7 @@ class Facebook extends Microsoft {
     }
 
     studentAge() {
-        return `${this._name} is ${this.age}`
+        return `${this._name} is ${this.age}`;
     }
 }
 
